@@ -126,3 +126,5 @@ evaluate_model(model, test_loader)
 
 # 保存模型（可选）
 torch.save(model.state_dict(), "catdog_model.pth")
+
+#测试
